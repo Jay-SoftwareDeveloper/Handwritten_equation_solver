@@ -27,3 +27,6 @@ Make sure you have the following libraries installed:
 - pillow
 
 Don’t forget: Tesseract OCR must be installed on your system and added to your system PATH for this to work correctly.
+
+**Important**
+#### The project was initially hosted on a GitHub account linked to my college email (COG domain), which has since been deleted. I've now reuploaded it here on my new GitHub to preserve and showcase the work.
