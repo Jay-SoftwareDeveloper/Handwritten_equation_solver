@@ -3,7 +3,7 @@
 This is a simple and interactive Streamlit web app that helps you solve handwritten linear or quadratic equations. Just upload an image of your handwritten equation—the app will read it using OCR (powered by Tesseract), process it, and solve it step-by-step using SymPy.
 
 ## 🚀 Features
-- Upload an image of a handwritten equation (no typing needed!)
+- Upload an image of a handwritten equation
 - Automatically processes the image using OpenCV
 - Uses Tesseract to extract the text (OCR)
 - Solves both linear and quadratic equations
@@ -11,10 +11,10 @@ This is a simple and interactive Streamlit web app that helps you solve handwrit
 
 ## 🛠 Installation
 ```bash
-1.Clone this repo: git clone https://github.com/your-username/handwritten-equation-solver.git
-2.Navigate to the folder: cd handwritten-equation-solver
-3. Install the required Python packages: pip install -r requirements.txt
-4. Run the app: streamlit run streamlit_app.py
+1. Clone this repo: git clone https://github.com/your-username/handwritten-equation-solver.git
+2. Navigate to the folder: cd handwritten-equation-solver
+3. Install: pip install -r requirements.txt
+4. Run: streamlit run streamlit_app.py
 ```
 
 ## 🔧 Requirements
